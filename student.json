@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Oleg",
+    "age": 35,
+    "position": [
+      "Founder",
+      "CEO",
+      "coder"
+    ],
+    "skills": [
+      "java",
+      "python",
+      "node",
+      "kotlin"
+    ],
+    "salary": {
+      "2018": 14000,
+      "2012": 12000,
+      "2010": 10000
+    }
+  },
+  {
+    "name": "Oleg1",
+    "age": 351,
+    "position": [
+      "Founder1",
+      "CEO1",
+      "coder1"
+    ],
+    "skills": [
+      "java1",
+      "python1",
+      "node1",
+      "kotlin1"
+    ],
+    "salary": {
+      "2018": 14000,
+      "2012": 12000,
+      "2010": 10000
+    }
+  }
+]
